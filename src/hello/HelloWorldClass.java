@@ -12,6 +12,7 @@ public class HelloWorldClass {
 		System.out.println("this is develop");
 		System.out.println("first commit line one");
 		System.out.println("second commit line two");
+		System.out.println("third commit line three");
 
 	}
 
